@@ -1,0 +1,21 @@
+.card {
+  padding: 2rem;
+
+  height: 52rem;
+  background-color: $color-white;
+
+  border: 1px solid $color-black;
+  border-radius: 20px;
+  box-shadow: 7px 7px 1px 0 $color-black;
+
+  &__poster {
+    border-radius: 10px;
+    height: 20rem;
+  }
+
+  &__content {
+  }
+
+  &__credits {
+  }
+}
